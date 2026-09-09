@@ -18,9 +18,13 @@ Crypto Trader provides a seamless and responsive user experience for monitoring 
 
 ## Screenshots
 
-> Screenshots will be added soon.
-
-*(Note: Check the `screenshots/` directory for visual demonstrations of the app)*
+<p align="center">
+  <img src="screenshots/home.jpg" width="250" alt="Home Screen 1" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/home1.jpg" width="250" alt="Home Screen 2" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/home2.jpg" width="250" alt="Home Screen 3" />
+</p>
 
 ## Tech Stack
 
