@@ -123,6 +123,5 @@ flutter build ios
 - Integrate WebSockets for genuine real-time market data streaming rather than simulation.
 - Expand test coverage with widget and integration tests.
 
-## Author
-
-Abhishek
+**Author:** Abhishek Lacheta  
+[GitHub Profile](https://github.com/Abhishek-lacheta)
